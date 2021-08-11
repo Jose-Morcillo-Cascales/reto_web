@@ -1,10 +1,26 @@
-# Bienvenid@ al reto de The Phone Cave
+# The Phone Cave
 
-Las nuevas técnologías estan llegando a los lugares mas reconditos del planeta, y con la misión de ofrecer los mejores telefonos al mejor precio del mercado, nace The Phone Cave. El nombre y el tema es una broma pero lo que viene después tomemoslo en serio.
+Este proyecto es un reto donde se busca la visualización de una lista de teléfonos con sus detalles.
 
-<img src="https://futurechallenges.org/wp-content/uploads/2013/12/Container_Shop_in_Joe_Slovo_Park.jpg" alt="drawing" width="500"/>
+# Diseñado con:
+-ReactJS
+-Create React App
+-Mongo Atlas
+-Axios
+-Express
 
-##### El reto
+# Instalaciones necesarias:
+- express boilerplate en server
+```sh
+npm install  express boilerplate
+```
+- create-react-app en client
+
+```sh
+npm install  create-react-app
+```
+
+
 
 Tu tarea es escribir una aplicación de catálogo de telefonos muy simple (o no). Los requisitos mínimos para que leamos tu código son los siguientes:
 
